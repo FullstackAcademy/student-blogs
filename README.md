@@ -11,4 +11,4 @@ If you add your blog to this page, please note that Fullstack Academy and Grace 
 
 ### 1610 Fullstack Remote Immersive
 
-* [My Awesome Blog](http://awesomeblog.com)
+* [Beth Qiang](http://bethqiang.com/)
