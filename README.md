@@ -12,3 +12,7 @@ If you add your blog to this page, please note that Fullstack Academy and Grace 
 ### 1610 Fullstack Remote Immersive
 
 * [Beth Qiang](http://bethqiang.com/)
+
+* [Rachel Bird](https://medium.com/@codinglady)
+
+* [Sean McBride](http://spmcb.com/blog/)
