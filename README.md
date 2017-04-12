@@ -9,6 +9,10 @@ To add your blog to this list, please:
 
 If you add your blog to this page, please note that Fullstack Academy and Grace Hopper may link to it or use content within for promotional purposes.
 
+### 1702 Grace Hopper Immersive
+
+* [Ruth Naebeck](http://ruthnaebeck.com/blog/)
+
 ### 1610 Fullstack Remote Immersive
 
 * [Beth Qiang](http://bethqiang.com/)
