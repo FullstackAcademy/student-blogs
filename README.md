@@ -21,3 +21,7 @@ If you add your blog to this page, please note that Fullstack Academy and Grace 
 * [Rachel Bird](https://medium.com/@codinglady)
 
 * [Sean McBride](http://spmcb.com/blog/)
+
+### 1503 NY Fullstack Immersive
+
+* [Ash Ryan](https://blog.ashryan.io)
