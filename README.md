@@ -12,6 +12,7 @@ If you add your blog to this page, please note that Fullstack Academy and Grace 
 ### 1702 Grace Hopper Immersive
 
 * [Ruth Naebeck](http://ruthnaebeck.com/blog/)
+* [Arin Choi](http://chroniclesofarin.com)
 
 ### 1610 Fullstack Remote Immersive
 
